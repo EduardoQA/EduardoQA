@@ -13,6 +13,7 @@ I have a degree in <strong>Systems Analysis and Development</strong> and I am cu
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 ![JMeter](https://img.shields.io/badge/-JMeter-333333?style=flat&logo=jmeter)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ## You can find me in ⤵
 
